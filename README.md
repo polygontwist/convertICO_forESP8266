@@ -5,7 +5,8 @@ Hab ich für meine ESP8266 Arduinos gebraucht.
 
 Im Prinzip wird jede ausgewählte Datei in Heyschreibweise umgewandelt:
 
-esp_rollo_16f.ico
+
+![Bild](https://github.com/polygontwist/convertICO_forESP8266/blob/master/esp_rollo_16f.png) esp_rollo_16f.ico
 
 const char bildarray[]={
 0x00,0x00,0x01,0x00,0x01,0x00,0x10,0x10,0x10,0x00,0x01,0x00,0x04,0x00,0x28,0x01,
