@@ -3,6 +3,8 @@
 Konvertiert z.B. ein *.ico in ein Bytearay (0x01,0x00,0x00,...).
 Hab ich für meine ESP8266 Arduinos gebraucht.
 
+ausprobieren: https://rawgit.com/polygontwist/convertICO_forESP8266/master/getHex.htm
+
 Im Prinzip wird jede ausgewählte Datei in Heyschreibweise umgewandelt:
 
 
